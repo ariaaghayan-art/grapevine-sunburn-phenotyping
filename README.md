@@ -43,6 +43,10 @@ brown-pixel fraction was:
 These values are intended only to demonstrate the workflow and should
 not be interpreted as a validated sunburn prediction model.
 
+### Phenotyping result
+
+![Image-based grapevine sunburn phenotyping](results/sunburn_phenotyping.png)
+
 ## Limitations
 
 This is an early proof-of-concept based on only three images.
